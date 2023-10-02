@@ -78,7 +78,7 @@ If you would like to contribute to this project, please follow these steps:
     -   Fork this repository to your own GitHub account.
 2.  Create a New Branch:
 
-    bashCopy code
+    ```bash
 
     `git checkout -b feature-name`
 
@@ -86,7 +86,7 @@ If you would like to contribute to this project, please follow these steps:
 
 3.  Make Changes and Commit:
 
-    bashCopy code
+    ```bash
 
     `git commit -m "Add feature or fix bug"`
 
@@ -94,7 +94,7 @@ If you would like to contribute to this project, please follow these steps:
 
 4.  Push to Your Fork:
 
-    bashCopy code
+    ```bash
 
     `git push origin feature-name`
 
